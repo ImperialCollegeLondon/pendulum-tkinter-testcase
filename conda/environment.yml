@@ -1,0 +1,9 @@
+name: pendulum_tkinter_testcase
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.3
+  - tk
+  - matplotlib
+  - imageio
+  - imageio-ffmpeg
